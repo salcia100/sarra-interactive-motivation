@@ -63,5 +63,38 @@ export const motivations = {
       },
     ],
   },
+  daisy: {
+  company: "DAISY",
+
+  cards: [
+    {
+      number: "01",
+      question: "Who am I?",
+      answer:
+        "I'm Sarra Haddad, a Software Developer and Master's student in Information Systems Engineering. I enjoy turning real-world needs into useful software and growing as a product-minded full-stack engineer.",
+    },
+
+    {
+      number: "02",
+      question: "Why DAISY?",
+      answer:
+        "I'm attracted to Daisy because it combines technology, product and real user needs. Building a SaaS that makes creative professionals' daily work easier, while caring about UX, is exactly the kind of environment I want to experience.",
+    },
+
+    {
+      number: "03",
+      question: "What would I bring?",
+      answer:
+        "I bring full-stack experience, curiosity and adaptability. I've worked with React, Laravel, JavaScript/TypeScript, Python and SQL, and I use AI as a tool to learn, debug and improve my development workflow.",
+    },
+
+    {
+      number: "04",
+      question: "What do I want to learn?",
+      answer:
+        "I want to deepen my skills in Next.js, TypeScript, Supabase, APIs and automated testing while discovering how a real product team turns user feedback into simple, reliable and useful software.",
+    },
+  ],
+},
 };
 export default motivations;
