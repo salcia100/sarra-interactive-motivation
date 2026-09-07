@@ -36,7 +36,7 @@ export const motivations = {
     cards: [
       {
         number: "01",
-        question: "My background",
+        question: "Who am I ?",
         answer:
             "I'm Sarra Haddad, a Software Developer and Master's student in Information Systems Engineering. I enjoy turning ideas and real-world problems into useful, well-designed software, while continuously learning and improving."
       },
@@ -50,7 +50,7 @@ export const motivations = {
 
       {
         number: "03",
-        question: "What can I bring?",
+        question: "What would I bring to your team?",
         answer:
           "I can contribute with my experience in PHP, Python and JavaScript, my full-stack development background and my ability to quickly learn new technologies.",
       },
